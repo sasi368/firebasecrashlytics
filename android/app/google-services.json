@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680845925591",
+    "project_id": "samplecrashreport-9fefc",
+    "storage_bucket": "samplecrashreport-9fefc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680845925591:android:852968350752a6a59d6492",
+        "android_client_info": {
+          "package_name": "com.firebasecrashlitics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680845925591-5n59njh2b01gjgtffdv2af2pp4p7spp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeNpSVpV1J9L2Wt0RwFdGXv57GGjDDgyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680845925591-5n59njh2b01gjgtffdv2af2pp4p7spp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
